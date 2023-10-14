@@ -10,3 +10,6 @@ Utilizing this dataset I've created this interactive dashboard, by which one can
   Frequency of crime types across regions and time.
 
 The insights derived from this dashboard hold significance for policymakers, law enforcement agencies, and various stakeholders dedicated to fostering a safer society. Serving as a valuable resource, this dashboard facilitates a better understanding of crime patterns in Bangladesh.
+
+
+Tableau Public Link of Dashboard: https://public.tableau.com/app/profile/muammer.galib.mahdi/viz/BangladeshReportedCrimeCases2010-2018/Dashboard1

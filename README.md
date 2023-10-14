@@ -5,8 +5,8 @@ This dashboard encompasses an extensive dataset comprising over 1.67 million rep
 Utilizing this dataset I've created this interactive dashboard, by which one can gain insights on: 
   Crime frequencies across unit regions,
   Crime frequency over time,
-  Year specific & region specific frequency
-  Trends in reported specific crime types
-  Frequency of crime types across regions and time
+  Year specific & region specific frequency,
+  Trends in reported specific crime types,
+  Frequency of crime types across regions and time.
 
 The insights derived from this dashboard hold significance for policymakers, law enforcement agencies, and various stakeholders dedicated to fostering a safer society. Serving as a valuable resource, this dashboard facilitates a better understanding of crime patterns in Bangladesh.
